@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on 
 - 🌱 I’m currently learning Software Development (CS209)
 - 👯 I’m looking to collaborate on the final CS209 project
 - 
